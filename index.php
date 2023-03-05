@@ -808,3 +808,4 @@ echo '<br>';
 $taxIncludedPrice = $price + $price * $taxRate;
 echo '税込価格は'.$taxIncludedPrice.'円です';
 ?>
+
