@@ -893,3 +893,5 @@ echo '<br>';
 echo $menu['name'].'は'.$menu['price'].'円です';
 
 ?>
+
+
